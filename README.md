@@ -63,7 +63,7 @@ HR-Analytics-Employee-Attrition/
 └── README.md
 Author
 
-Telemachos Chatzivasileiou
+Tilemachos Chatzivasileiou
 
 Mathematics Graduate | Aspiring Data Analyst
 
